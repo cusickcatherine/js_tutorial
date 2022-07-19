@@ -1,6 +1,10 @@
 {
   "dependencies": {
-    "cusickcatherine-palindrome": "^0.1.1"
+    "cusickcatherine-palindrome": "^0.1.1",
+    "fs": "^0.0.1-security",
+    "jsdom": "^20.0.0",
+    "request": "^2.88.2",
+    "urllib": "^3.0.4"
   },
   "version": "0.1.1"
 }
